@@ -1,0 +1,12 @@
+c:\users\imjhc\onedrive\documentos\visual studio 2015\Projects\Hanged\Hanged\bin\Debug\Hanged.exe.config
+c:\users\imjhc\onedrive\documentos\visual studio 2015\Projects\Hanged\Hanged\bin\Debug\Hanged.exe
+c:\users\imjhc\onedrive\documentos\visual studio 2015\Projects\Hanged\Hanged\bin\Debug\Hanged.pdb
+c:\users\imjhc\onedrive\documentos\visual studio 2015\Projects\Hanged\Hanged\obj\Debug\Hanged.csprojResolveAssemblyReference.cache
+c:\users\imjhc\onedrive\documentos\visual studio 2015\Projects\Hanged\Hanged\obj\Debug\Hanged.exe
+c:\users\imjhc\onedrive\documentos\visual studio 2015\Projects\Hanged\Hanged\obj\Debug\Hanged.pdb
+G:\Hanged\Hanged\bin\Debug\Hanged.exe.config
+G:\Hanged\Hanged\bin\Debug\Hanged.exe
+G:\Hanged\Hanged\bin\Debug\Hanged.pdb
+G:\Hanged\Hanged\obj\Debug\Hanged.exe
+G:\Hanged\Hanged\obj\Debug\Hanged.pdb
+G:\Hanged\Hanged\obj\Debug\Hanged.csprojResolveAssemblyReference.cache

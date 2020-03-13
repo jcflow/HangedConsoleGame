@@ -1,0 +1,8 @@
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\bin\Debug\HangedTest.dll
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\bin\Debug\HangedTest.pdb
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\bin\Debug\Hanged.exe
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\bin\Debug\Hanged.pdb
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\obj\Debug\HangedTest.csprojResolveAssemblyReference.cache
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\obj\Debug\HangedTest.dll
+c:\Users\imjhc\OneDrive\documentos\visual studio 2015\Projects\Hanged\HangedTest\obj\Debug\HangedTest.pdb
